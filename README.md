@@ -29,6 +29,8 @@ HTML, CSS, and jQuery
 
 https://lmasullo.github.io/TriviaGame/
 
+## Deplyed
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. 
