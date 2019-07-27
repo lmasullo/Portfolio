@@ -27,9 +27,10 @@ HTML, CSS, and jQuery
 
 ## Demo
 
-https://lmasullo.github.io/TriviaGame/
+ https://lmasullo.github.io/Portfolio/
 
-## Deplyed
+## Deployed
+ https://www.masullodev.com
 
 ## Versioning
 
