@@ -1,8 +1,25 @@
-#mainJumbo {
-  background-image: url("../images/mainbackground2.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-bottom: 30px;
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* Hide the Junbo */
+  #mainJumbo {
+    display: none;
+  }
+}
+
+/* Medium and Up */
+@media (min-width: 576px) {
+  #mainJumbo {
+    background-image: url("../images/mainbackground3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+  }
+
+  .mainText {
+    padding-top: 50px;
+    padding-bottom: 0px;
+    height: 100%;
+  }
 }
 
 hr {
@@ -36,6 +53,10 @@ hr {
   clear: both;
 }
 
+#cardDecks {
+  padding-top: 10px;
+}
+
 .card {
   height: 467px;
 }
@@ -46,6 +67,11 @@ hr {
   text-align: center;
   bottom: 10px;
   position: absolute;
+}
+
+#aboutInfo {
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
 
 .footerLinks {
