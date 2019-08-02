@@ -25,6 +25,29 @@ hr {
   /* opacity: .5; */
 }
 
+#pict_me {
+  float: left;
+  margin: 0 25px 0 25px;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.card {
+  height: 467px;
+}
+
+.btnCenter {
+  width: 85%;
+  margin: auto;
+  text-align: center;
+  bottom: 10px;
+  position: absolute;
+}
+
 .footerLinks {
   margin: 10px;
 }
