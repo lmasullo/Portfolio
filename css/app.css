@@ -44,7 +44,7 @@ hr {
 
 #pict_me {
   float: left;
-  margin: 0 25px 0 25px;
+  margin: 0 25px 10px 25px;
 }
 
 .clearfix::after {
