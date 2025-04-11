@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://www.201technologies.com"
+  status = 301
+  force = true
